@@ -1,0 +1,6 @@
+# .gitignorenoファイルの中身
+
+# __pycache__を無視する記述
+__pycache__/
+
+*.pyc
